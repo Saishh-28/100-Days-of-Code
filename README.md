@@ -4,7 +4,7 @@ Learning Python with Angela Yu's bootcamp on Udemy. Building 1 project per day!
 
 ## 📊 Progress
 
-- [ ] Day 1
+- [DONE] Day 1: BAND NAME GENERATOR 
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
