@@ -2,16 +2,6 @@
 
 Learning Python with Angela Yu's bootcamp on Udemy. Building 1 project per day!
 
-## 📊 Progress
-
-- [DONE] Day 1: BAND NAME GENERATOR 
-- [ ] Day 2
-- [ ] Day 3
-- [ ] Day 4
-- [ ] Day 5
-
-*More days to be added as I progress!*
-
 ## 🛠️ Technologies I'll Learn
 - Python 3
 - OOP (Object-Oriented Programming)
